@@ -1,8 +1,3 @@
-def pattern () :
-    data = {"Short Sequence":3, "Medium Sequence":2, "Long Sequence":1}
-    return data
-
-
 def display_keys (data) :
     for key in data.keys() :
         print(key)
