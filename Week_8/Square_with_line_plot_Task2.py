@@ -19,6 +19,7 @@ def large () :
     plt.plot (x,y,"b-p")
 
 
+
 def run_task2 () :
     small ()
     medium ()
