@@ -19,7 +19,7 @@ elif location == "living_room":
         location_living_room = input()
         if location_living_room == "on_the_table" :
          print("yes! I found my phone!")
-     else :
+        else :
          print("found some stuff but no phone")
 else:
-print("I do not know where that is but i will keep looking")
+    print("I do not know where that is but i will keep looking")
